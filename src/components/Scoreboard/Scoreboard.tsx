@@ -29,7 +29,7 @@ export function Scoreboard () {
                 <CP.FrameList score={score} />
                 <hr />
                 <Button onClick={resetGame} variant="primary">
-                    Reset Game
+                    Start A New Game
                 </Button>
             </div>
         </>

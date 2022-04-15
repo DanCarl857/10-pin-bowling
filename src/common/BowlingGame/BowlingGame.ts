@@ -1,3 +1,6 @@
+// Initial logic implementation logic from 
+//  RedGreenRefactor: https://www.youtube.com/watch?v=brahHchaegc
+//  dearfrankg: https://www.github.com/dearfrankg
 import { ScoreDataType } from "../../types";
 import * as CONSTANTS from '../../constants';
 import { fillRolls } from "../../utilities/fillRolls";
