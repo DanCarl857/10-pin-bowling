@@ -1,0 +1,1 @@
+export const PIN_TOTAL = 10;

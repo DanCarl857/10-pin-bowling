@@ -1,0 +1,1 @@
+export const isSpare = (firstRoll: number, secondRoll: number) => (firstRoll + secondRoll) === 10

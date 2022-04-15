@@ -1,0 +1,1 @@
+export const isStrike = (pins: number) => pins === 10

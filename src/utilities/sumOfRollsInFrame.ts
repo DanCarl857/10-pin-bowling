@@ -1,0 +1,1 @@
+export const sumOfRollsInFrame = (firstRoll: number, secondRoll: number) => firstRoll + secondRoll;

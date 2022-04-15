@@ -1,0 +1,1 @@
+export const strikeBonus = (firstRoll: number, secondRoll: number) => 10 + firstRoll + secondRoll;
